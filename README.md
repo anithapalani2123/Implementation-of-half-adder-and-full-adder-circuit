@@ -1,7 +1,7 @@
 # Implementation-of-half-adder-and-full-adder-circuit
 
 ## AIM:
-To design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
+To design a half adder and full adder circuit and verify its truth table in Quartus using Verilog programming.
 
 ## Equipments Required:
 1. Hardware – PCs, Cyclone II , USB flasher
